@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amruta Kothawade</h1>
-<h3 align="center">Web Developer | DSA Problem Solver | CS Core Subjects</h3>
+<h3 align="center">Web Developer | DSA Problem Solver </h3>
 
 
 
