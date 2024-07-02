@@ -16,4 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amruta7203&show_icons=true&locale=en" alt="amruta7203" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amruta7203&" alt="amruta7203" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amruta7203)](https://git.io/streak-stats)
+
