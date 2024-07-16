@@ -19,5 +19,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amruta7203)](https://git.io/streak-stats)
 
 <h3 align="left">GSSoC'24 Badges:</h3>
-
-
+<img align="center" src="gssoc_badges.png" alt="amruta7203" />
