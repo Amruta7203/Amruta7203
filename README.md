@@ -16,6 +16,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amruta7203&theme=dark&show_icons=true&locale=en" alt="amruta7203" width="300" height="150"/></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amruta7203&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
